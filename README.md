@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/GaelWM/angular-learning]
+   git clone https://github.com/GaelWM/angular-learning
    ```
    
 2. ** Browse to exercise folder and start by the first one
